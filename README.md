@@ -1,12 +1,15 @@
 FARM VILLE
 
-`CAMPUS/UNIDADE`
+
 PUC MINAS Coraçao Eucarístico
-`CURSO`
+
+
 Engenharia de Computaçao
-`SEMESTRE`
+
+
 Primeiro Semestre
-`DISCIPLINA`
+
+
 Laboratorio de Introdução a Engenharia de Computação
 
 ## Integrantes
