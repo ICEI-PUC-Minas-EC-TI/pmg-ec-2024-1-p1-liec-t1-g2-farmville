@@ -17,8 +17,6 @@ Laboratorio de Introdução a Engenharia de Computação
 * Pedro Guilherme Tirloni
 * Gabriel Silva de Moura Nunes
 * Henrique dos Santos lafaiete
-* Nome completo do aluno 4
-* Nome completo do aluno 5
 
 ## Orientador
 
@@ -26,7 +24,7 @@ Laboratorio de Introdução a Engenharia de Computação
 
 ## Resumo
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este projeto descreve a construção de um sistema de irrigação automática para plantas, utilizando um Módulo Sensor de Umidade de Solo e uma Mini Bomba de Água controlada por um NodeMCU. O sistema é integrado ao aplicativo para monitoramento remoto da umidade do solo e controle da bomba de água. Metodologias ágeis foram aplicadas para gerenciar o desenvolvimento, garantindo eficiência e qualidade.
 
 # Código (do arduino ou esp32)
 
