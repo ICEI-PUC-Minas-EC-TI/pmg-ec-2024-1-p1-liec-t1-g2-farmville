@@ -1,25 +1,25 @@
-# TÍTULO DO PROJETO
+FARM VILLE
 
 `CAMPUS/UNIDADE`
-
+PUC MINAS Coraçao Eucarístico
 `CURSO`
-
+Engenharia de Computaçao
 `SEMESTRE`
-
+Primeiro Semestre
 `DISCIPLINA`
-
+Laboratorio de Introdução a Engenharia de Computação
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* Pedro Guilherme Tirloni
+* Gabriel Silva de Moura Nunes
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 * Nome completo do aluno 5
 
 ## Orientador
 
-* Nome completo do professor 1
+* Marta Dias Moreira Noronha
 
 ## Resumo
 
