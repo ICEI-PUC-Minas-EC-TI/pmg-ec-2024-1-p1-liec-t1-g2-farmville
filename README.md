@@ -16,7 +16,7 @@ Laboratorio de Introdução a Engenharia de Computação
 
 * Pedro Guilherme Tirloni
 * Gabriel Silva de Moura Nunes
-* Nome completo do aluno 3
+* Henrique dos Santos lafaiete
 * Nome completo do aluno 4
 * Nome completo do aluno 5
 
