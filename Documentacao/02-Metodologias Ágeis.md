@@ -1,17 +1,12 @@
 ## Gerenciamento de Projeto
 
-
-# Metodologia
-
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
-
-### Divisão de Papéis
-
-Apresente a divisão de papéis entre os membros do grupo.
-
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Aluno 1;
-- Equipe de Desenvolvimento: Aluno 1, Aluno 2, Aluno 3;
+Metodologias Ágeis
+Durante o desenvolvimento do projeto, foram aplicadas metodologias ágeis para gerenciar as tarefas e garantir o progresso eficiente. Utilizamos o Trello como ferramenta de gerenciamento de projetos, dividindo as tarefas.
+Planejamento: Definição dos requisitos e do projeto.
+Desenvolvimento:  Montagem inicial do circuito, codificação, aplicativo e integração com o aplicativo.
+Testes: Verificação do funcionamento do sensor, da bomba e da integração com o aplicativo.
+Iteração: Ajustes e otimizações com base nos testes realizados.
+Todos os integrantes do grupo participaram de todas as tarefas, visto que os 3 integrantes realizaram todos os procedimentos do trabalho juntos.
 
 
 ### Processo
@@ -21,6 +16,4 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 ### Ferramentas
 
-As ferramentas utilizadas no projeto foram:
-
-- Liste aqui as ferramentas utilizadas para desenvolvimento do projeto (como por exemplo: Arduino IDE, APP Inventor, trello e outros). Obs: não é para listar aqui os componentes utilizados.
+-Arduino IDE, APP Inventor, trello 
