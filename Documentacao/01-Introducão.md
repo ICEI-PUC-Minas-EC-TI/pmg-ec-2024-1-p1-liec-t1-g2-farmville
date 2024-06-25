@@ -4,7 +4,7 @@ No contexto atual de automação residencial e agrícola, sistemas de irrigaçã
 
 ## Problema
 
- Ineficiência e impacto ambiental da irrigação convencional na agricultura. Como desperdício de água, consumo elevado de energia, baixa adaptação a condições variáveis
+ Ineficiência e impacto ambiental da irrigação convencional na agricultura. Como desperdício de água, consumo elevado de energia, baixa adaptação a condições variáveis.
 
 ## Objetivos
 
@@ -13,8 +13,8 @@ No contexto atual de automação residencial e agrícola, sistemas de irrigaçã
 Objetivos específicos:
 
 Agricultura Familiar: Implementar um sistema de irrigação sustentável que utilize sensores de umidade do solo para otimizar a quantidade de água utilizada
-Grandes Agricultores: Reduzir o impacto ambiental das práticas de irrigação em grandes propriedades agrícolas
+Grandes Agricultores: Reduzir o impacto ambiental das práticas de irrigação em grandes propriedades agrícolas.
  
 ## Público-Alvo
 
-Pequenos agricultores, grandes propriedades agrícolas, produtores de alimentos em estufas, comunidades rurais, empresas de paisagismo e jardinagem
+Pequenos agricultores, grandes propriedades agrícolas, produtores de alimentos em estufas, comunidades rurais, empresas de paisagismo e jardinagem.
