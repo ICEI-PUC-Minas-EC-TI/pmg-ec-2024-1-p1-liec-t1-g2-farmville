@@ -1,3 +1,3 @@
 # Referências
 
-Não utilizamos referencias
+Não utilizamos referencias.
