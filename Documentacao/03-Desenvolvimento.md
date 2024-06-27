@@ -33,7 +33,7 @@ Descreva o desenvolvimento do código do aplicativo.
 
 ### Montagem
 
-Primeiro fizemos a maquete depois o arduino
+Primeiro foi feito a parte da maquete depois fizemos o codigo do arduino
 
 ### Desenvolvimento do Código
 
