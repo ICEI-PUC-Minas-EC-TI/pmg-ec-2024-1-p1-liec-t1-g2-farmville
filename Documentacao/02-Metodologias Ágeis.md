@@ -11,7 +11,7 @@ Todos os integrantes do grupo participaram de todas as tarefas, visto que os 3 i
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. Cole aqui um print do quadro Kanban utilizado pelo grupo.
+![WhatsApp Image 2024-06-24 at 23 35 00 (1)](https://github.com/ICEI-PUC-Minas-EC-TI/pmg-ec-2024-1-p1-liec-t1-g2-farmville/assets/169859519/153fefc4-3524-460a-ab50-c46cdbddf703)
  
 
 ### Ferramentas
