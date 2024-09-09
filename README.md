@@ -10,7 +10,7 @@ Engenharia de Computaçao
 Primeiro Semestre
 
 
-Laboratorio de Introdução a Engenharia de Computação
+Laboratorio de Introdução a Engenharia de Computação, Algoritmos e Estruturas de Dados I, Introdução à Computação
 
 ## Integrantes
 
@@ -21,6 +21,8 @@ Laboratorio de Introdução a Engenharia de Computação
 ## Orientador
 
 * Marta Dias Moreira Noronha
+* Sandro Jerônimo de Almeida
+* Naísses Zóia Lima
 
 ## Resumo
 
