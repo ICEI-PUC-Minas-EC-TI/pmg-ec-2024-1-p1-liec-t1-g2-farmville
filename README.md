@@ -18,7 +18,7 @@ Laboratorio de Introdução a Engenharia de Computação, Algoritmos e Estrutura
 * Gabriel Silva de Moura Nunes
 * Henrique dos Santos lafaiete
 
-## Orientador
+## Orientadores
 
 * Marta Dias Moreira Noronha
 * Sandro Jerônimo de Almeida
